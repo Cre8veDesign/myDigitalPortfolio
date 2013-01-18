@@ -1,0 +1,31 @@
+/*Ie6 Fix */
+	
+	/*#header h1 {
+	
+		background: url(images/h1-logo.gif) no-repeat top left;
+	
+	}
+	
+	a.home {
+	
+		background:url(images/contact-home.gif) no-repeat left center;
+		
+	}
+	
+	a.email {
+	
+		background:url(images/contact-email.gif) no-repeat left center;
+		
+	}*/
+	
+	ul.list li a:hover, ul.list li a.current  {
+		
+		
+		line-height:27px;
+		
+		
+	}
+	
+/* End Ie6 Fix */	
+	
+
