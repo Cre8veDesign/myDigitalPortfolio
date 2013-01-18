@@ -304,17 +304,18 @@
 
                 <ul>
 
-                  <li><a href="">Web and Graphic Design </a></li>
+                  <li><a href="http://cre8vedesign.com/services">Responsive Web Design</a></li>
 
-                  <li><a href="">Branding &amp; Logo for business</a></li>
+                    <li><a href="http://cre8vedesign.com/services">Brand Identity for Small Business</a></li>
 
-                  <li><a href="">Web Development</a></li>
+              
+                    <li><a href="http://cre8vedesign.com/services">Web Development</a></li>
 
-                  <li><a href="">HTML, CSS and JQuery</a></li>
+                  
+                    <li><a href="http://cre8vedesign.com/services">Website Re-designs</a></li>
 
-                  <li>W3C Standards Compliant</li>
-
-                  <li></li>                    
+                   
+                    <li><a href="http://cre8vedesign.com/services">Graphic Design/Logo Design</a></li>                   
 
                 </ul>
 
